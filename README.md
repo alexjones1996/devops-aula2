@@ -1,3 +1,3 @@
 # devops-aula2
 
-Lucas, Rony, Gabriela
+Rony, Lucas, Gabriela
